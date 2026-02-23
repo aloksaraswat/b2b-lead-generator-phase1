@@ -1,0 +1,2 @@
+pandas
+email-validator

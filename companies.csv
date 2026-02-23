@@ -1,0 +1,6 @@
+company_id,name,domain,industry,location,employee_size,company_type
+1,Acme Corp,acme.com,SaaS,India,120,Startup
+2,Foo Technologies,foo.com,FinTech,US,300,Enterprise
+3,Bar Systems,bar.com,SaaS,India,80,Startup
+4,Baz Solutions,baz.com,SaaS,India,600,Enterprise
+5,NovaSoft,novasoft.com,SaaS,India,200,Startup

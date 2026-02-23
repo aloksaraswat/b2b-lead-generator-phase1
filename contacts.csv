@@ -1,0 +1,9 @@
+contact_id,company_id,full_name,job_title,email,company_domain
+1,1,Rahul Sharma,VP Sales,rahul@acme.com,acme.com
+2,1,Anita Verma,CEO,anita@acme.com,acme.com
+3,2,John Smith,Director Growth,john@foo.com,foo.com
+4,3,Pooja Mehta,Head of Partnerships,pooja@bar.com,bar.com
+5,3,Pooja Mehta,Head of Partnerships,pooja@bar.com,bar.com
+6,4,Arjun Malhotra,CFO,arjun@baz.com,baz.com
+7,5,Neha Kapoor,Founder,neha@novasoft.com,novasoft.com
+8,5,Kunal Jain,Sales Head,kunal@novasoft.com,novasoft.com
